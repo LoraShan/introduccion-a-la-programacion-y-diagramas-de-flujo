@@ -1,0 +1,5 @@
+Algoritmo ejercicio5
+    Definir precio Como Real
+    precio <- 19.99
+    Escribir "Precio: ", precio
+FinAlgoritmo
